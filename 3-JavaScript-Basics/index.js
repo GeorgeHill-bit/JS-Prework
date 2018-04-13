@@ -3,7 +3,7 @@ var firstName;
 var lastName;
 var fullName;
 firstName = "Thomas";
-lastName = "Flynn"
+lastName = "Flynn";
 fullName = firstName + ' ' + lastName;
 console.log(fullName, 'First: ' + firstName, 'Last: ' + lastName);
 
@@ -16,7 +16,7 @@ console.log('string='+string, 'boolean='+boolean, 'number='+number);
 //Gold
 number=1000.50;
 number = number + (number/2);
-console.log(number);
+console.log("number=", number);
 
 //Bronze
 var num1, num2, num3, num4, num5;
